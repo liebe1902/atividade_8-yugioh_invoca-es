@@ -1,0 +1,40 @@
+body { 
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+    #navegacao {
+        float: left;
+        background-color: gray;
+        width: 20%;
+        min-height: 600px;
+        text-align: center;
+                }
+
+    #titulo {
+        background-color: black;
+        color: yellow;
+        padding: 9px;
+        text-align: center;
+        }
+
+    #conteudo {
+        margin-left: 20%;
+        min-height: 600px;
+        text-align: center;
+        padding: 10px;
+                }
+
+    #rodape {
+        background-color: black;
+        color: yellow;
+        padding: 1px;
+        text-align: center;
+        clear: both;
+            }
+
+    
