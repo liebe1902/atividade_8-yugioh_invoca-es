@@ -7,6 +7,15 @@ p {
     font-family: 'Times New Roman', Times, serif;
     }
 
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
+a {
+    text-decoration: underline;
+}
+
     #navegacao {
         float: left;
         background-color: gray;

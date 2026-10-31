@@ -3,9 +3,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     }
 
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
 p {
     font-family: 'Times New Roman', Times, serif;
     } 
+
+a {
+    text-decoration: underline;
+}
 
         #navegacao {
             float: left;
